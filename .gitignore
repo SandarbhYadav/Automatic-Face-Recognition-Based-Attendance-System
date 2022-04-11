@@ -1,0 +1,11 @@
+data/
+images/
+__pycache__
+slack.py
+lfw_funneled
+cheat.py
+slack_callback.py
+*.swp
+compare_v2/
+nohup.out
+
