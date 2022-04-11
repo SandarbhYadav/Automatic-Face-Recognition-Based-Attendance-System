@@ -1,8 +1,8 @@
-# Facial Reidentification using One Shot Learning - FaceNet Inspired
+# Automatic-Face-Recognition-Based-Attendance-System
 
 #### Clone the repository
 ```
-git clone https://github.com/amalshaji/facial-reidentification
+git clone https://github.com/SandarbhYadav/Automatic-Face-Recognition-Based-Attendance-System.git
 ```
 
 #### Train the model
